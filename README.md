@@ -1,17 +1,5 @@
 # Modular-ceramic-granite_Revit2022
 
-def get_category(nom_max, nom_min):
-    """Определяет категорию плитки (A, B, C, D, E) по номинальным габаритам."""
-    if nom_max >= 1000 and 450 <= nom_min <= 650:
-        return 'A'
-    elif 450 <= nom_max <= 650 and 450 <= nom_min <= 650:
-        return 'B'
-    elif 250 <= nom_max <= 350 and 250 <= nom_min <= 350:
-        return 'C'
-    elif nom_max >= 750 and nom_min <= 250:
-        return 'D'
-    else:
-        return 'E'
 
 
 
