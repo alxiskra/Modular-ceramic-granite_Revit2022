@@ -1,6 +1,7 @@
 # Modular-ceramic-granite_Revit2022
 
-<img width="8286" height="6942" alt="dyn_Modular-ceramic-granite_Revit2022_1" src="https://github.com/user-attachments/assets/204d6eb7-b29d-4bf4-a848-196141a70b0f" />
+<img width="8514" height="6942" alt="dyn_Modular-ceramic-granite_Revit2022_1" src="https://github.com/user-attachments/assets/6923b2b9-4220-4d69-b2c5-ccdd97f059c6" />
+
 
 
 # Дополнительный контекст
