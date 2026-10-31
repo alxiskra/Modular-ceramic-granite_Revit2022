@@ -1,6 +1,6 @@
 # Modular-ceramic-granite_Revit2022
 
-ЗДЕСЬ БУДЕТ ДИНАМО СКРИПТ И МОДЕЛ РЕВИТ КАК ПРИМЕР
+<img width="8286" height="6942" alt="dyn_Modular-ceramic-granite_Revit2022_1" src="https://github.com/user-attachments/assets/204d6eb7-b29d-4bf4-a848-196141a70b0f" />
 
 
 # Дополнительный контекст
